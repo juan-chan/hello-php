@@ -3,7 +3,7 @@
     "description": "composer php demo",
     "version": "v0.0.1",
     "type": "library",
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "cxy77",
